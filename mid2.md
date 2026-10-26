@@ -42,7 +42,7 @@ int main(void) {
         fprintf(stderr, "테이블 생성 실패: %s\n", errMsg);
         sqlite3_free(errMsg);
     } else {
-        fprintf(stdout, "테이블 생성 완료!\n");
+        fprintf(stdout, "Table Successfully!\n");
     }
 
     // 3. 데이터 삽입 (INSERT)
