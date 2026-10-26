@@ -52,4 +52,5 @@ int main(void) {
 
     return 0;
 }
+```
 <img width="1210" height="529" alt="스크린샷 2026-10-26 152800" src="https://github.com/user-attachments/assets/5a5122ca-9727-4161-a20c-768cfeecee70" />
