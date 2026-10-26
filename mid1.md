@@ -167,7 +167,7 @@ int main(void) {
 
         EndDrawing();
     }
-
+<img width="809" height="625" alt="스크린샷 2026-10-26 151021" src="https://github.com/user-attachments/assets/3513a5f9-c55d-43d8-91d0-068a33bcd0d4" />
     CloseWindow();
     return 0;
 }
